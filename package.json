@@ -192,7 +192,7 @@
     "history": "^4.6.1",
     "js-beautify": "^1.6.12",
     "moment": "^2.18.1",
-    "prismjs": "^1.6.0",
+    "prismjs": "^1.23.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-dropzone": "^3.13.0",
