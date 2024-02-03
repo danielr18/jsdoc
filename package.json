@@ -186,7 +186,7 @@
   },
   "dependencies": {
     "electron-debug": "^1.1.0",
-    "extract-text-webpack-plugin": "^2.1.0",
+    "extract-text-webpack-plugin": "^3.0.2",
     "font-awesome": "^4.7.0",
     "function-extractor": "^0.0.5",
     "history": "^4.6.1",
